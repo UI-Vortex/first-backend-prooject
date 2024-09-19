@@ -1,0 +1,19 @@
+{
+  "name": "lesson-1-open-code-editor-and-intall-extensions",
+  "version": "1.0.0",
+  "description": "NodeJS starter lesson ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Zubayir Walker",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}
